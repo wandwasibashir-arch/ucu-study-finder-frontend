@@ -83,7 +83,7 @@ const SearchGroups = () => {
                 )}
             </div>
                 <footer style={{ marginTop: '30px', textAlign: 'center', fontSize: '0.8rem', color: '#888', borderTop: '1px solid #eee', paddingTop: '15px' }}>
-                UCU 2026 study groups system
+                &copy;UCU study groups system
                 </footer>
         </div>
     );
